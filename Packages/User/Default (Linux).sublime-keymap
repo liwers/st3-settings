@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+f"], "command": "find_all_under" },
+	{ "keys": ["ctrl+alt+r"], "command": "goto_symbol_in_project" },
+	{ "keys": ["ctrl+ù"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+]

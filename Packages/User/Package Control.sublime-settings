@@ -1,0 +1,43 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Emmet",
+		"EncodingHelper",
+		"FindKeyConflicts",
+		"Function Name Display",
+		"Git",
+		"GitGutter",
+		"LESS",
+		"Modific",
+		"Oracle PL SQL",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"Phpcs",
+		"PhpNamespace",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
+		"Sublimerge Pro",
+		"SVN",
+		"Symfony2 Snippets",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces",
+		"Xdebug Client"
+	]
+}
